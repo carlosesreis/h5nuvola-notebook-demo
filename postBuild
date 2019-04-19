@@ -4,4 +4,4 @@
 git clone https://code.ill.fr/panosc/data-analysis-services/hdf-viewer.git
 
 cd ./hdf-viewer
-pip3 install .
+pip install .
