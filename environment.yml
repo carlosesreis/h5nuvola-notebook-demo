@@ -1,8 +1,0 @@
-channels:
-  - conda-forge
-dependencies:
-  - python=3.6
-  - ipytree=0.1.1
-  - numpy
-  - h5py
-  - appmode

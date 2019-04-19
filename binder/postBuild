@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# clone and install hdfviewer from ILL
+git clone https://code.ill.fr/panosc/data-analysis-services/hdf-viewer.git
+
+cd ./hdf-viewer
+pip install .
